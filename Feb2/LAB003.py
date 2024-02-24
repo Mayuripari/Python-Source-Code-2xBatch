@@ -1,0 +1,10 @@
+age=30
+print(age)
+age="MayuriParit"
+print(age)
+age='C'
+print(age)
+_123=555
+print(_123)
+_=5555
+print(_)
