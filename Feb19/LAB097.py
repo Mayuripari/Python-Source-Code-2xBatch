@@ -14,4 +14,5 @@ objref = Car()
 objref.color = car_color
 objref.model = car_model
 car1 = objref.car_details()
+car2 = objref.car_details()
 
